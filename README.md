@@ -66,9 +66,12 @@ To make this project work, you'll need to sign up for an API key from **OpenWeat
 
 ### Screenshots
 
-*Include a screenshot here to show what the app looks like!*
+![Weather App Screenshot](weather-app.png)
 
 ---
+
+![Wether App after](weather-app-after.png)
+
 
 ### Issues and Contributions
 
