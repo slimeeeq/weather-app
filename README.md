@@ -27,7 +27,7 @@ This is a simple weather application built using **HTML**, **CSS**, and **JavaSc
 2. Go to the project directory.
 
    ```bash
-   cd weather-app
+   cd web
    ```
 
 3. Open the `index.html` file in your browser.
