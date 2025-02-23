@@ -21,7 +21,7 @@ This is a simple weather application built using **HTML**, **CSS**, and **JavaSc
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/slimeeeq/web.git
    ```
 
 2. Go to the project directory.
