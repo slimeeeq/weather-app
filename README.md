@@ -21,13 +21,13 @@ This is a simple weather application built using **HTML**, **CSS**, and **JavaSc
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/slimeeeq/web.git
+   git clone https://github.com/slimeeeq/weather-app.git
    ```
 
 2. Go to the project directory.
 
    ```bash
-   cd web
+   cd weather-app
    ```
 
 3. Open the `index.html` file in your browser.
